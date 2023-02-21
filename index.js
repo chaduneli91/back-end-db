@@ -7,6 +7,7 @@ const port = process.env.PORT || 3000;
 server.db = router.db;
 
 server.use(middlewares);
+server.use(jsonServer.bodyParser);
 server.use(router);
 
 server.listen(port, () => {

@@ -1,3 +1,121 @@
 {
-  "lists": [{}]
+  "lists": [
+    {
+      "id": 11111111,
+      "name": "To Do"
+    },
+    {
+      "id": 11111112,
+      "name": "In Progress"
+    },
+    {
+      "name": "Done",
+      "id": 1676120845869
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "description": "ss"
+    },
+    {
+      "id": 1674052145843,
+      "description": "ფფ"
+    },
+    {
+      "id": 1674055179017,
+      "description": "1st Task",
+      "type": "Done",
+      "labels": [
+        {
+          "color": "green",
+          "background": "#99E1AC",
+          "darkBackground": "#5F9C6E",
+          "isSelected": true
+        },
+        {
+          "color": "red",
+          "background": "#FD9983",
+          "darkBackground": "#FB6646"
+        }
+      ]
+    },
+    {
+      "id": 1674055200045,
+      "description": "6th Task",
+      "type": "To Do",
+      "labels": [
+        {
+          "color": "red",
+          "background": "#FD9983",
+          "darkBackground": "#FB6646"
+        },
+        {
+          "color": "orange",
+          "background": "#F3C991",
+          "darkBackground": "#E8A041"
+        },
+        {
+          "color": "yellow",
+          "background": "#F3EF97",
+          "darkBackground": "#E8DF04"
+        },
+        {
+          "color": "red",
+          "background": "#FD9983",
+          "darkBackground": "#FB6646"
+        }
+      ]
+    },
+    {
+      "id": 1674064554014,
+      "description": "9th",
+      "type": "In Progress"
+    },
+    {
+      "id": 1674064686982,
+      "description": "11",
+      "type": "To Do",
+      "labels": [
+        {
+          "color": "green",
+          "background": "#99E1AC",
+          "darkBackground": "#5F9C6E",
+          "isSelected": true
+        },
+        {
+          "color": "red",
+          "background": "#FD9983",
+          "darkBackground": "#FB6646"
+        }
+      ]
+    },
+    {
+      "id": 1674433718654,
+      "description": "123",
+      "type": "In Progress"
+    },
+    {
+      "id": 1674581884093,
+      "description": "beqas",
+      "type": "In Progress",
+      "labels": [
+        {
+          "color": "orange",
+          "background": "#F3C991",
+          "darkBackground": "#E8A041"
+        }
+      ]
+    },
+    {
+      "id": 1675706297785,
+      "description": "f",
+      "type": "fff"
+    },
+    {
+      "id": 1676122085968,
+      "description": "ფ",
+      "type": "Done"
+    }
+  ]
 }
