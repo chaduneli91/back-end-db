@@ -1,16 +1,39 @@
 {
+  "backgroundColor": {
+    "color": " #5b8e8a"
+  },
+  "members": [
+    {
+      "name": "Ani",
+      "surname": "Zhizhiashvili",
+      "id": 1677493533520,
+      "color": "#421140"
+    },
+    {
+      "name": "Mariam",
+      "surname": "Bakhurauli",
+      "id": 1677493542007,
+      "color": "#498286"
+    },
+    {
+      "name": "ANI",
+      "surname": "Gamcemlidze",
+      "id": 1677502708397,
+      "color": "#865885"
+    }
+  ],
   "lists": [
     {
-      "id": 11111111,
-      "name": "To Do"
+      "name": "To Do",
+      "id": 1677503429253
     },
     {
-      "id": 11111112,
-      "name": "In Progress"
+      "name": "In Progress",
+      "id": 1677503434081
     },
     {
-      "name": "Done",
-      "id": 1676120845869
+      "name": "Testing",
+      "id": 1677503439338
     }
   ],
   "tasks": [
@@ -23,99 +46,46 @@
       "description": "ფფ"
     },
     {
-      "id": 1674055179017,
-      "description": "1st Task",
-      "type": "Done",
-      "labels": [
-        {
-          "color": "green",
-          "background": "#99E1AC",
-          "darkBackground": "#5F9C6E",
-          "isSelected": true
-        },
-        {
-          "color": "red",
-          "background": "#FD9983",
-          "darkBackground": "#FB6646"
-        }
-      ]
-    },
-    {
-      "id": 1674055200045,
-      "description": "6th Task",
-      "type": "To Do",
-      "labels": [
-        {
-          "color": "red",
-          "background": "#FD9983",
-          "darkBackground": "#FB6646"
-        },
-        {
-          "color": "orange",
-          "background": "#F3C991",
-          "darkBackground": "#E8A041"
-        },
-        {
-          "color": "yellow",
-          "background": "#F3EF97",
-          "darkBackground": "#E8DF04"
-        },
-        {
-          "color": "red",
-          "background": "#FD9983",
-          "darkBackground": "#FB6646"
-        }
-      ]
-    },
-    {
-      "id": 1674064554014,
-      "description": "9th",
-      "type": "In Progress"
-    },
-    {
-      "id": 1674064686982,
-      "description": "11",
-      "type": "To Do",
-      "labels": [
-        {
-          "color": "green",
-          "background": "#99E1AC",
-          "darkBackground": "#5F9C6E",
-          "isSelected": true
-        },
-        {
-          "color": "red",
-          "background": "#FD9983",
-          "darkBackground": "#FB6646"
-        }
-      ]
-    },
-    {
-      "id": 1674433718654,
-      "description": "123",
-      "type": "In Progress"
-    },
-    {
-      "id": 1674581884093,
-      "description": "beqas",
-      "type": "In Progress",
-      "labels": [
-        {
-          "color": "orange",
-          "background": "#F3C991",
-          "darkBackground": "#E8A041"
-        }
-      ]
-    },
-    {
       "id": 1675706297785,
       "description": "f",
       "type": "fff"
     },
     {
-      "id": 1676122085968,
-      "description": "ფ",
-      "type": "Done"
+      "id": 1677503536613,
+      "description": "First Task",
+      "type": "To Do"
+    },
+    {
+      "id": 1677503542521,
+      "description": "Second Task",
+      "type": "To Do",
+      "members": [
+        1677493533520,
+        1677502708397
+      ]
+    },
+    {
+      "id": 1677503548473,
+      "description": "3rd Taask",
+      "type": "In Progress",
+      "members": [
+        1677502708397
+      ]
+    },
+    {
+      "id": 1677503553073,
+      "description": "4th task",
+      "type": "In Progress"
+    },
+    {
+      "id": 1677503565186,
+      "description": "tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt",
+      "type": "Testing",
+      "members": [
+        1677493533520,
+        1677493542007,
+        1677502708397
+      ]
     }
   ]
 }
