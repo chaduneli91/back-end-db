@@ -1,91 +1,37 @@
 {
-  "backgroundColor": {
-    "color": " #5b8e8a"
-  },
-  "members": [
-    {
-      "name": "Ani",
-      "surname": "Zhizhiashvili",
-      "id": 1677493533520,
-      "color": "#421140"
-    },
-    {
-      "name": "Mariam",
-      "surname": "Bakhurauli",
-      "id": 1677493542007,
-      "color": "#498286"
-    },
-    {
-      "name": "ANI",
-      "surname": "Gamcemlidze",
-      "id": 1677502708397,
-      "color": "#865885"
-    }
-  ],
-  "lists": [
-    {
-      "name": "To Do",
-      "id": 1677503429253
-    },
-    {
-      "name": "In Progress",
-      "id": 1677503434081
-    },
-    {
-      "name": "Testing",
-      "id": 1677503439338
-    }
-  ],
-  "tasks": [
+  "posts": [
     {
       "id": 1,
-      "description": "ss"
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "add": [
+    {
+      "firstName": "mercedes",
+      "lastName": "benz",
+      "email": "mercedes@ger.com",
+      "userStatus": "Active",
+      "roles": "deu",
+      "id": 1
     },
     {
-      "id": 1674052145843,
-      "description": "ფფ"
-    },
-    {
-      "id": 1675706297785,
-      "description": "f",
-      "type": "fff"
-    },
-    {
-      "id": 1677503536613,
-      "description": "First Task",
-      "type": "To Do"
-    },
-    {
-      "id": 1677503542521,
-      "description": "Second Task",
-      "type": "To Do",
-      "members": [
-        1677493533520,
-        1677502708397
-      ]
-    },
-    {
-      "id": 1677503548473,
-      "description": "3rd Taask",
-      "type": "In Progress",
-      "members": [
-        1677502708397
-      ]
-    },
-    {
-      "id": 1677503553073,
-      "description": "4th task",
-      "type": "In Progress"
-    },
-    {
-      "id": 1677503565186,
-      "description": "tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt",
-      "type": "Testing",
-      "members": [
-        1677493533520,
-        1677493542007,
-        1677502708397
-      ]
+      "firstName": "kakha",
+      "lastName": "chaduneli",
+      "email": "kakha@jsjsj.ckck",
+      "userStatus": "Active",
+      "roles": "tgt",
+      "id": 2
     }
   ]
 }
