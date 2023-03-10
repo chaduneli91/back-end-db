@@ -16,22 +16,5 @@
   "profile": {
     "name": "typicode"
   },
-  "add": [
-    {
-      "firstName": "mercedes",
-      "lastName": "benz",
-      "email": "mercedes@ger.com",
-      "userStatus": "Active",
-      "roles": "deu",
-      "id": 1
-    },
-    {
-      "firstName": "kakha",
-      "lastName": "chaduneli",
-      "email": "kakha@jsjsj.ckck",
-      "userStatus": "Active",
-      "roles": "tgt",
-      "id": 2
-    }
-  ]
+  "add": []
 }
