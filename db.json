@@ -16,5 +16,22 @@
   "profile": {
     "name": "typicode"
   },
-  "add": []
+  "add": [
+    {
+      "firstName": "kakha",
+      "lastName": "chaduneli",
+      "email": "chadunelikakha@gmail.com",
+      "userStatus": "Active",
+      "roles": "Add",
+      "id": 1
+    },
+    {
+      "firstName": "lewis",
+      "lastName": "hamilton",
+      "email": "l-hamilton@gmail.com",
+      "userStatus": "Active",
+      "roles": "Pilote",
+      "id": 2
+    }
+  ]
 }
